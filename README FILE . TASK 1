@@ -1,0 +1,55 @@
+💡 Task Name:
+Personal Portfolio Website using HTML & CSS
+
+🎯 General Objective of the Task:
+To design and develop a personal portfolio website using HTML and CSS, where the trainee can present a brief about herself, showcase her main projects, and provide contact details. The goal is to practice and apply the basic principles of web design in a visually appealing and organized format.
+
+📋 Task Details:
+✅ Design Language: HTML for the page structure
+
+🎨 Styling Language: CSS for layout, colors, and overall appearance
+
+🧱 Website Components:
+Header:
+
+Includes a welcome message with the trainee’s name and a short introduction.
+
+About Me Section:
+
+A paragraph introducing the trainee, her field of study, and tech interests.
+
+Projects Section:
+
+A list of key projects developed by the trainee, such as:
+
+Chatbot Project
+
+Smart Mosque Management System
+
+Online Store using Django
+
+Designing a New Compiler
+
+Contact Section:
+
+A way to contact the trainee via email.
+
+Footer:
+
+Contains a copyright message and clean styling.
+
+🖌️ Styling Features:
+Gradient background colors
+
+Professional text formatting
+
+Rounded buttons with hover effects
+
+Responsive design compatible with different screen sizes
+
+🌟 Expected Deliverables:
+A file named index.html containing the website’s content
+
+A file named style.css containing all visual styles
+
+A visually attractive and functional personal website displayed in the browser
